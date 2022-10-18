@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    text-align: center;
+    background-color: aqua;
+}
+ul{
+    color: rgb(77, 21, 7);
+}
+p{
+    text-align:center ;
+}
+body{
+    background-color: rgb(241, 235, 235);
+}
+ol{
+    color: rgb(77, 21, 7);
+}
+
+a{
+    text-align: center;
+}
+table{
+    text-align: center;
+    background-color: aqua;
+}
+#r1{
+    background-color: rgb(145, 64, 199);
+}
+#r2{
+    background-color: rgb(212, 94, 94);
+}
+
